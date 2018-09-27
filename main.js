@@ -17,8 +17,7 @@
         });
     }
 
-    //Color Palettes
-    // #f8bbd0  #ba6b6c  #78002e  #4dd0e1  #00897b
+    //Color Palette
 
     var palette = document.querySelector('#palette');
 
